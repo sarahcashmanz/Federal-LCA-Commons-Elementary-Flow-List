@@ -13,6 +13,6 @@ Oil sand,kg,MJ,0.0225,"Oil Sands, Heavy Oil & Bitumen: From Recovery to Refinery
 Shale gas,kg,MJ,0.0191,"same as Natural gas - Greet 1.8 M. Wang, GREET 1, version 1.8c.0 (Fuel-Cycle Model). 2009, Center for Transportation Research, Argonne National Laboratory: Center. URL: http://tinyurl.com/m6oo5z"
 Tight gas,kg,MJ,0.0191,"same as Natural gas - Greet 1.8 M. Wang, GREET 1, version 1.8c.0 (Fuel-Cycle Model). 2009, Center for Transportation Research, Argonne National Laboratory: Center. URL: http://tinyurl.com/m6oo5z"
 Hydrogen,kg,MJ,0.007,"Greet 1.8 M. Wang, GREET 1, version 1.8c.0 (Fuel-Cycle Model). 2009, Center for Transportation Research, Argonne National Laboratory: Center. URL: http://tinyurl.com/m6oo5z"
-Uranium ore,kg,MJ,0.000002,"Uranium, in LWR World-nuclear Assoication https://www.world-nuclear.org/information-library/facts-and-figures/heat-values-of-various-fuels.aspx"
+Uranium ore,kg,MJ,0.000002,"Uranium, in LWR World-nuclear Association https://www.world-nuclear.org/information-library/facts-and-figures/heat-values-of-various-fuels.aspx"
 Peat,kg,MJ,0.0577,"Thermochemical and Catalytic Upgrading in a Fuel Context: Peat, Biomass and Alkenes, Thesis by Christina Hornell, Chemical Engineering Dept., Royal Institute of Technology, Stockholm, Sweden, 2001."
 Coalbed methane,m3,MJ,0.0251,"same as Methane - Oil Sands, Heavy Oil & Bitumen: From Recovery to Refinery (Banerjee)"
